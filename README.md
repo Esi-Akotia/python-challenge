@@ -6,7 +6,6 @@ This assignment is complete and contains all the required submissions:
 2. Text files for the outputs for both data sets stored as 'analysis.txt' in their respective folders
 
 Support from AskBCS & Tutor:
-
 Pleae note that I got assistance from my tutor and the Learning Assistants with the following lines of code:
 
 *PyBank Data:*
