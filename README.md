@@ -3,7 +3,9 @@
 This assignment is complete and contains all the required submissions:
 
 1. Scripts for both PyBank and PyPoll data sets stored as 'main.py' in their respective folders
-2. Text files for the outputs for both data sets stored as 'analysis.txt' in their respective folders
+3. Text files for the outputs for both data sets stored as 'analysis.txt' in their respective folders
+
+Note: for the csv file paths in each of the scripts (main.py), I used the relative path to the folder my Python file is in. 
 
 Support from AskBCS & Tutor:
 Pleae note that I got assistance from my tutor and the Learning Assistants with the following lines of code:
