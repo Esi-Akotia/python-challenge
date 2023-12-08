@@ -42,3 +42,10 @@ Line 43:
 
     vote_tally.append(all_votes)
       
+| Task        | Assigned to:   | Support:  |
+| ------------- |:-------------:| :-----:|
+| Prepare Data 
+- Get Datasets from StatCan | Amir, Sharvil | Esi |
+- Get data from API | Behnoosh, Hamza | |
+| Clean data      | Amir, Sharvil      |   Esi |
+| Analysis | Esi, Behnoosh      |    Amir, Hamza, Sharvil |
