@@ -42,10 +42,13 @@ Line 43:
 
     vote_tally.append(all_votes)
       
-| Task        | Assigned to:   | Support:  |
-| ------------- |:-------------:| :-----:|
-| Prepare Data 
-- Get Datasets from StatCan | Amir, Sharvil | Esi |
-- Get data from API | Behnoosh, Hamza | |
-| Clean data      | Amir, Sharvil      |   Esi |
-| Analysis | Esi, Behnoosh      |    Amir, Hamza, Sharvil |
+| Task     | Sub task   | Assigned to:   | Support:  |
+| ------------- |:-------------:| :-----:|  :-----:|
+| Prepare Data | Get Datasets from StatCan | Amir, Sharvil | Esi |
+| " | Get data from API (REST API, World Bank API) | Behnoosh, Hamza | Amir |
+| " | Clean data & save csv files  | Amir, Sharvil      |  Esi |
+| Analysis | Run statistical analysis | Behnoosh, Esi   |    Amir, Hamza, Sharvil |
+| " | Create charts & graphs to show relationships | Behnoosh, Esi   |    Amir, Hamza, Sharvil |
+| " | Report on key findings & draw conclusions | Behnoosh, Esi   |    Amir, Hamza, Sharvil |
+| Presentation | Create powerpoint | Behnoosh, Esi, Hamza | Amir, Sharvil |
+| " | Class presentation | Behnoosh, Esi | Amir, Hamza, Sharvil |
