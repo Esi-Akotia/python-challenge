@@ -43,7 +43,7 @@ Line 43:
     vote_tally.append(all_votes)
       
 | Task     | Sub task   | Assigned to:   | Support:  |
-| ------------- |:-------------:| :-----:|  :-----:|
+| ------------- |-------------| :-----:|  :-----:|
 | Prepare Data | Get Datasets from StatCan | Amir, Sharvil | Esi |
 | " | Get data from API (REST API, World Bank API) | Behnoosh, Hamza | Amir |
 | " | Clean data & save csv files  | Amir, Sharvil      |  Esi |
